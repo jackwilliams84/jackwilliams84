@@ -1,13 +1,9 @@
-### Hi there 👋
-
-<!--
-**jackwilliams84/jackwilliams84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
- 
-- 🌱 I’m currently learning Data Systems..
+### Hi there I'm Jack 👋
+- 🌱 I’m currently learning Data Systems.
+- Taken intro to Data Analytics and Computer Science courses.
+- Sophomore at Denison University
+- Also participate on the football team
+- Interested in sports analytics, financial analytics
+- Phone: 330-641-9846
 - 📫 How to reach me: willia_j5@denison.edu
-- Sophomore at Denison
-
 
